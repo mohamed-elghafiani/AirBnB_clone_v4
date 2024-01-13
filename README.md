@@ -164,6 +164,6 @@ Second part of Airbnb: Joann Vuong
 3rd part of AirBnB: The web_dynamic part was created by:
 Mohamed El Ghafiani - [Github](https://github.com/mohamed-el-ghafiani) / [Twitter](https://twitter.com/med_elghafiani)
 
-
+_Rania CHIKHI_  - [Github](https://github.com/raniachikhi) / [Twitter](https://twitter.com/ainar_hc)
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
