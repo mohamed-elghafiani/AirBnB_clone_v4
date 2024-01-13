@@ -160,5 +160,10 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
+
+3rd part of AirBnB: The web_dynamic part was created by:
+Mohamed El Ghafiani - [Github](https://github.com/mohamed-el-ghafiani) / [Twitter](https://twitter.com/med_elghafiani)
+
+
 ## License
 Public Domain. No copy write protection. 
