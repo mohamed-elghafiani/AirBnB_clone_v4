@@ -13,7 +13,6 @@
     }
     console.log(myId);
   });
-});
 
 $.ajax({
   url: 'http://0.0.0.0:5001/api/v1/status/',
@@ -27,4 +26,6 @@ $.ajax({
     $('#api_status').removeClass('available');
     console.log('error ' + xhr);
   }
+});
+
 });
